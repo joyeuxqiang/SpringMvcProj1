@@ -6,7 +6,6 @@
 <title>Spring4 MVC -HelloWorld</title>
 </head>
 <body>
-	<!--<h1>"ÄãºÃ"</h1> -->
     <h1>${greeting}</h1>
 </body>
 </html>
