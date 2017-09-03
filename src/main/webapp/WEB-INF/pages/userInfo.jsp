@@ -4,10 +4,9 @@
 <title>User Info</title>
 </head>
 <body>
- 
    <h2>${name}</h2>
- 
    Email: ${email}
+   body:hello
    <br>
 </body>
 </html>
